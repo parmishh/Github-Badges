@@ -88,7 +88,7 @@
 
 #### You can find more information about GitHub Badges under this [link](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile).
 
-<!-- </div> -->
+<!-- </div> this is made by me and my friend rohit -->
 <br>
 
 ####  
